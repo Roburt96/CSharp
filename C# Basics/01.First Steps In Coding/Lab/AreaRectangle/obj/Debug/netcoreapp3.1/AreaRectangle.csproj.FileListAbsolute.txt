@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.genruntimeconfig.cache

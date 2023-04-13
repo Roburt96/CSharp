@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\bin\Debug\netcoreapp3.1\ZooShop.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ZooShop\obj\Debug\netcoreapp3.1\ZooShop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\bin\Debug\netcoreapp3.1\TextPlusNumbers.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\bin\Debug\netcoreapp3.1\TextPlusNumbers.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\bin\Debug\netcoreapp3.1\TextPlusNumbers.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\bin\Debug\netcoreapp3.1\TextPlusNumbers.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\bin\Debug\netcoreapp3.1\TextPlusNumbers.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\bin\Debug\netcoreapp3.1\TextPlusNumbers.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\obj\Debug\netcoreapp3.1\TextPlusNumbers.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\obj\Debug\netcoreapp3.1\TextPlusNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\obj\Debug\netcoreapp3.1\TextPlusNumbers.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\obj\Debug\netcoreapp3.1\TextPlusNumbers.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\obj\Debug\netcoreapp3.1\TextPlusNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\obj\Debug\netcoreapp3.1\TextPlusNumbers.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\obj\Debug\netcoreapp3.1\TextPlusNumbers.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\TextPlusNumbers\obj\Debug\netcoreapp3.1\TextPlusNumbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\bin\Debug\netcoreapp3.1\HelloByName.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\bin\Debug\netcoreapp3.1\HelloByName.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\bin\Debug\netcoreapp3.1\HelloByName.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\bin\Debug\netcoreapp3.1\HelloByName.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\bin\Debug\netcoreapp3.1\HelloByName.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\bin\Debug\netcoreapp3.1\HelloByName.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\obj\Debug\netcoreapp3.1\HelloByName.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\obj\Debug\netcoreapp3.1\HelloByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\obj\Debug\netcoreapp3.1\HelloByName.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\obj\Debug\netcoreapp3.1\HelloByName.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\obj\Debug\netcoreapp3.1\HelloByName.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\obj\Debug\netcoreapp3.1\HelloByName.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\obj\Debug\netcoreapp3.1\HelloByName.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\HelloByName\obj\Debug\netcoreapp3.1\HelloByName.genruntimeconfig.cache

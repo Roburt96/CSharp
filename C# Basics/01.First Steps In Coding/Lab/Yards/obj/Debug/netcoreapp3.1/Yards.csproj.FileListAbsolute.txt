@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\bin\Debug\netcoreapp3.1\Yards.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\bin\Debug\netcoreapp3.1\Yards.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\bin\Debug\netcoreapp3.1\Yards.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\bin\Debug\netcoreapp3.1\Yards.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\bin\Debug\netcoreapp3.1\Yards.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\bin\Debug\netcoreapp3.1\Yards.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\obj\Debug\netcoreapp3.1\Yards.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\obj\Debug\netcoreapp3.1\Yards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\obj\Debug\netcoreapp3.1\Yards.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\obj\Debug\netcoreapp3.1\Yards.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\obj\Debug\netcoreapp3.1\Yards.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\obj\Debug\netcoreapp3.1\Yards.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\obj\Debug\netcoreapp3.1\Yards.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\Yards\obj\Debug\netcoreapp3.1\Yards.genruntimeconfig.cache

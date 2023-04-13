@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\bin\Debug\netcoreapp3.1\ProjectMaker.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\bin\Debug\netcoreapp3.1\ProjectMaker.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\bin\Debug\netcoreapp3.1\ProjectMaker.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\bin\Debug\netcoreapp3.1\ProjectMaker.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\bin\Debug\netcoreapp3.1\ProjectMaker.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\bin\Debug\netcoreapp3.1\ProjectMaker.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\obj\Debug\netcoreapp3.1\ProjectMaker.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\obj\Debug\netcoreapp3.1\ProjectMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\obj\Debug\netcoreapp3.1\ProjectMaker.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\obj\Debug\netcoreapp3.1\ProjectMaker.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\obj\Debug\netcoreapp3.1\ProjectMaker.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\obj\Debug\netcoreapp3.1\ProjectMaker.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\obj\Debug\netcoreapp3.1\ProjectMaker.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Lab\ProjectMaker\obj\Debug\netcoreapp3.1\ProjectMaker.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\bin\Debug\netcoreapp3.1\ConvertorUSDtoBGN.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\bin\Debug\netcoreapp3.1\ConvertorUSDtoBGN.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\bin\Debug\netcoreapp3.1\ConvertorUSDtoBGN.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\bin\Debug\netcoreapp3.1\ConvertorUSDtoBGN.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\bin\Debug\netcoreapp3.1\ConvertorUSDtoBGN.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\bin\Debug\netcoreapp3.1\ConvertorUSDtoBGN.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\obj\Debug\netcoreapp3.1\ConvertorUSDtoBGN.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\obj\Debug\netcoreapp3.1\ConvertorUSDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\obj\Debug\netcoreapp3.1\ConvertorUSDtoBGN.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\obj\Debug\netcoreapp3.1\ConvertorUSDtoBGN.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\obj\Debug\netcoreapp3.1\ConvertorUSDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\obj\Debug\netcoreapp3.1\ConvertorUSDtoBGN.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\obj\Debug\netcoreapp3.1\ConvertorUSDtoBGN.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\01.First Steps In Coding\Exercise\Exercise\ConvertorUSDtoBGN\obj\Debug\netcoreapp3.1\ConvertorUSDtoBGN.genruntimeconfig.cache
