@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorDeposit", "CalculatorDeposit\CalculatorDeposit.csproj", "{803AA20F-7E65-497F-92B2-90F8CEE34844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertorUSDtoBGN", "ConvertorUSDtoBGN\ConvertorUSDtoBGN.csproj", "{13908C63-D237-4E96-AAA9-97E23C08A8B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadiansToDegrees", "RadiansToDegrees\RadiansToDegrees.csproj", "{9F1D5112-404A-4158-BDAB-D18C3C57BF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803AA20F-7E65-497F-92B2-90F8CEE34844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803AA20F-7E65-497F-92B2-90F8CEE34844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803AA20F-7E65-497F-92B2-90F8CEE34844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803AA20F-7E65-497F-92B2-90F8CEE34844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13908C63-D237-4E96-AAA9-97E23C08A8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13908C63-D237-4E96-AAA9-97E23C08A8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13908C63-D237-4E96-AAA9-97E23C08A8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13908C63-D237-4E96-AAA9-97E23C08A8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1D5112-404A-4158-BDAB-D18C3C57BF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1D5112-404A-4158-BDAB-D18C3C57BF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1D5112-404A-4158-BDAB-D18C3C57BF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1D5112-404A-4158-BDAB-D18C3C57BF33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
