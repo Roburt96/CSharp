@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\bin\Debug\netcoreapp3.1\Read Words.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\bin\Debug\netcoreapp3.1\Read Words.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\bin\Debug\netcoreapp3.1\Read Words.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\bin\Debug\netcoreapp3.1\Read Words.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\bin\Debug\netcoreapp3.1\Read Words.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\bin\Debug\netcoreapp3.1\Read Words.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\obj\Debug\netcoreapp3.1\Read Words.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\obj\Debug\netcoreapp3.1\Read Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\obj\Debug\netcoreapp3.1\Read Words.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\obj\Debug\netcoreapp3.1\Read Words.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\obj\Debug\netcoreapp3.1\Read Words.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\obj\Debug\netcoreapp3.1\Read Words.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\obj\Debug\netcoreapp3.1\Read Words.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\05. While Loop\Lab\Lab\Read Words\obj\Debug\netcoreapp3.1\Read Words.genruntimeconfig.cache

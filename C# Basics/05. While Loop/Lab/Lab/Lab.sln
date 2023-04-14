@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read Words", "Read Words\Read Words.csproj", "{1B236BD2-12E7-4EC7-8B32-F6179127F0B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "Password\Password.csproj", "{021C977D-A2FA-4B8C-92F1-2D358203A118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Numbers", "Sum Numbers\Sum Numbers.csproj", "{CBB1418D-5E48-4398-8776-91F5805F59AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B236BD2-12E7-4EC7-8B32-F6179127F0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B236BD2-12E7-4EC7-8B32-F6179127F0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B236BD2-12E7-4EC7-8B32-F6179127F0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B236BD2-12E7-4EC7-8B32-F6179127F0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021C977D-A2FA-4B8C-92F1-2D358203A118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021C977D-A2FA-4B8C-92F1-2D358203A118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021C977D-A2FA-4B8C-92F1-2D358203A118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021C977D-A2FA-4B8C-92F1-2D358203A118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB1418D-5E48-4398-8776-91F5805F59AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB1418D-5E48-4398-8776-91F5805F59AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB1418D-5E48-4398-8776-91F5805F59AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB1418D-5E48-4398-8776-91F5805F59AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
