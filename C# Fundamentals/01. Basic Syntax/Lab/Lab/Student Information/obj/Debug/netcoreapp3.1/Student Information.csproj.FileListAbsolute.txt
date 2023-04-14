@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\bin\Debug\netcoreapp3.1\Student Information.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\bin\Debug\netcoreapp3.1\Student Information.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\bin\Debug\netcoreapp3.1\Student Information.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\bin\Debug\netcoreapp3.1\Student Information.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\bin\Debug\netcoreapp3.1\Student Information.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\bin\Debug\netcoreapp3.1\Student Information.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\obj\Debug\netcoreapp3.1\Student Information.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\obj\Debug\netcoreapp3.1\Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\obj\Debug\netcoreapp3.1\Student Information.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\obj\Debug\netcoreapp3.1\Student Information.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\obj\Debug\netcoreapp3.1\Student Information.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\obj\Debug\netcoreapp3.1\Student Information.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\obj\Debug\netcoreapp3.1\Student Information.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Student Information\obj\Debug\netcoreapp3.1\Student Information.genruntimeconfig.cache

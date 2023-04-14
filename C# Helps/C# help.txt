@@ -251,7 +251,7 @@ TrueForAll(Predicate<T> match): Determines whether all elements in the array mat
 ########################################################################################################################
 
                                      - Dictionary Methods -
-
+*** To use dictionary need to write -> "using System.Collections.Generic;"
 Add(TKey key, TValue value): Adds the specified key and value to the dictionary.
 
 Clear(): Removes all keys and values from the dictionary.

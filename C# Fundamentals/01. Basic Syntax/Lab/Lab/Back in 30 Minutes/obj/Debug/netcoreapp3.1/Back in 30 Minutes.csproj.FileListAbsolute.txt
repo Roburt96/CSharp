@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\bin\Debug\netcoreapp3.1\Back in 30 Minutes.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Back in 30 Minutes\obj\Debug\netcoreapp3.1\Back in 30 Minutes.genruntimeconfig.cache

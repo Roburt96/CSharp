@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\bin\Debug\netcoreapp3.1\Passed or Failed.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Passed or Failed\obj\Debug\netcoreapp3.1\Passed or Failed.genruntimeconfig.cache

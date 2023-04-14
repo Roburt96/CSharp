@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sulev\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sulev\\.nuget\\packages"
+    ]
+  }
+}

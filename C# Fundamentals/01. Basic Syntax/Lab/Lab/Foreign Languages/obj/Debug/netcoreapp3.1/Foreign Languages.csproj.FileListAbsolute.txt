@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\bin\Debug\netcoreapp3.1\Foreign Languages.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\01. Basic Syntax\Lab\Lab\Foreign Languages\obj\Debug\netcoreapp3.1\Foreign Languages.genruntimeconfig.cache
