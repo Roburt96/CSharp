@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\03. Conditional Statements Advanced\Lab\Lab\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.genruntimeconfig.cache
