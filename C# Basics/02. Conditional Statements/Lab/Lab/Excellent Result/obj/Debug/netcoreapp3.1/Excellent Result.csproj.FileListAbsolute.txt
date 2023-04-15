@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\02. Conditional Statements\Lab\Lab\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.genruntimeconfig.cache
