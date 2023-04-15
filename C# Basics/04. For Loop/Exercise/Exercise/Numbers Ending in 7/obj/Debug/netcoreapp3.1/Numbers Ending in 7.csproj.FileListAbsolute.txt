@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Basics\04. For Loop\Exercise\Exercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.genruntimeconfig.cache
