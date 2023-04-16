@@ -1,0 +1,87 @@
+﻿                                        - Methods -
+
+
+Example
+
+class Program
+{
+  static void MyMethod() 
+  {
+    // code to be executed
+  }
+}
+
+=> MyMethod() = is the name of the method
+   static = means that the method belongs to the Program class and not an object of the Program class. 
+   void = means that this method does not have a return value. You will learn more about return values later in this chapter
+
+################################################################################################
+                                        - Return Values -
+Example
+
+static int MyMethod(int x) 
+{
+  return 5 + x;
+}
+
+static void Main(string[] args)
+{
+  Console.WriteLine(MyMethod(3));
+}
+
+// Outputs 8 (5 + 3)
+
+Example 
+
+static int MyMethod(int x, int y) 
+{
+  return x + y;
+}
+
+static void Main(string[] args)
+{
+  Console.WriteLine(MyMethod(5, 3));
+}
+
+// Outputs 8 (5 + 3)
+
+################################################################################################
+                                        - Named Arguments -
+                                        
+Example 
+
+static void MyMethod(string child1, string child2, string child3) 
+{
+  Console.WriteLine("The youngest child is: " + child3);
+}
+
+static void Main(string[] args)
+{
+  MyMethod(child3: "John", child1: "Liam", child2: "Liam");
+}
+
+// The youngest child is: John        
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
