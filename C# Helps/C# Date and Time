@@ -1,0 +1,13 @@
+﻿DateTime.Now: Gets the current date and time.
+
+DateTime.Today: Gets the current date without the time part.
+
+DateTime.Parse(string s): Converts a string representation of a date and time to a DateTime object.
+
+DateTime.ToShortDateString()/DateTime.ToShortTimeString(): Gets a short string representation of a date or time value.
+
+DateTime.AddDays(double value)/DateTime.AddMonths(int value)/DateTime.AddYears(int value): 
+Adds a specified number of days, months, or years to a DateTime object.
+
+TimeSpan.FromDays(double value)/TimeSpan.FromHours(double value)/TimeSpan.FromMinutes(double value): 
+Creates a TimeSpan object from a specified number of days, hours, or minutes.

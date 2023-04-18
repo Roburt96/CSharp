@@ -1,0 +1,49 @@
+﻿                                    - Linq commands -
+
+Where: Filters a collection based on a given condition.
+
+Select: Transforms each element in a collection to a new value using a given function.
+
+OrderBy/OrderByDescending: Sorts a collection in ascending/descending order based on a given key.
+
+GroupBy: Groups elements in a collection based on a given key.
+
+Join: Performs an inner join on two collections based on a common key.
+
+GroupJoin: Performs a group join on two collections based on a common key.
+
+Count: Returns the number of elements in a collection that satisfy a given condition.
+
+Sum: Computes the sum of the elements in a collection.
+
+Average: Computes the average of the elements in a collection.
+
+Min: Returns the minimum value in a collection.
+
+Max: Returns the maximum value in a collection.
+
+First/FirstOrDefault: Returns the first element in a collection that satisfies a given condition, or a default value if not found.
+
+Last/LastOrDefault: Returns the last element in a collection that satisfies a given condition, or a default value if not found.
+
+Single/SingleOrDefault: Returns the only element in a collection that satisfies a given condition, or a default value if not found or multiple elements are found.
+
+Skip: Skips a specified number of elements in a collection.
+
+Take: Returns a specified number of elements from the start of a collection.
+
+Distinct: Returns distinct elements from a collection.
+
+Concat: Concatenates two collections.
+
+Union: Returns the unique elements from two collections.
+
+Except: Returns the elements that are in one collection but not in another.
+
+All: Checks if all elements in a collection satisfy a given condition.
+
+Any: Checks if any element in a collection satisfies a given condition.
+
+Contains: Checks if a collection contains a specific element.
+
+Reverse: Reverses the order of elements in a collection.
