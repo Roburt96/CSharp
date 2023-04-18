@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\bin\Debug\netcoreapp3.1\Rounding Numbers.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Rounding Numbers\obj\Debug\netcoreapp3.1\Rounding Numbers.genruntimeconfig.cache

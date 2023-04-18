@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\bin\Debug\netcoreapp3.1\Reverse array of strings.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\bin\Debug\netcoreapp3.1\Reverse array of strings.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\bin\Debug\netcoreapp3.1\Reverse array of strings.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\bin\Debug\netcoreapp3.1\Reverse array of strings.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\bin\Debug\netcoreapp3.1\Reverse array of strings.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\bin\Debug\netcoreapp3.1\Reverse array of strings.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\obj\Debug\netcoreapp3.1\Reverse array of strings.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\obj\Debug\netcoreapp3.1\Reverse array of strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\obj\Debug\netcoreapp3.1\Reverse array of strings.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\obj\Debug\netcoreapp3.1\Reverse array of strings.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\obj\Debug\netcoreapp3.1\Reverse array of strings.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\obj\Debug\netcoreapp3.1\Reverse array of strings.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\obj\Debug\netcoreapp3.1\Reverse array of strings.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Reverse array of strings\obj\Debug\netcoreapp3.1\Reverse array of strings.genruntimeconfig.cache

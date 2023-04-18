@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\bin\Debug\netcoreapp3.1\Equal Arrays.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Equal Arrays\obj\Debug\netcoreapp3.1\Equal Arrays.genruntimeconfig.cache

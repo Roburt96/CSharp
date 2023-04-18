@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\03. Arrays\Lab\Lab\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.genruntimeconfig.cache
