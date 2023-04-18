@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.genruntimeconfig.cache

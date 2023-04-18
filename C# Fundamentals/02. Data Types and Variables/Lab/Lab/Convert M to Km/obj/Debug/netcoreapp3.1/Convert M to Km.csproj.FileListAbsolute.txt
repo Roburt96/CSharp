@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\bin\Debug\netcoreapp3.1\Convert M to Km.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\bin\Debug\netcoreapp3.1\Convert M to Km.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\bin\Debug\netcoreapp3.1\Convert M to Km.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\bin\Debug\netcoreapp3.1\Convert M to Km.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\bin\Debug\netcoreapp3.1\Convert M to Km.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\bin\Debug\netcoreapp3.1\Convert M to Km.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\obj\Debug\netcoreapp3.1\Convert M to Km.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\obj\Debug\netcoreapp3.1\Convert M to Km.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\obj\Debug\netcoreapp3.1\Convert M to Km.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\obj\Debug\netcoreapp3.1\Convert M to Km.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\obj\Debug\netcoreapp3.1\Convert M to Km.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\obj\Debug\netcoreapp3.1\Convert M to Km.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\obj\Debug\netcoreapp3.1\Convert M to Km.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Convert M to Km\obj\Debug\netcoreapp3.1\Convert M to Km.genruntimeconfig.cache

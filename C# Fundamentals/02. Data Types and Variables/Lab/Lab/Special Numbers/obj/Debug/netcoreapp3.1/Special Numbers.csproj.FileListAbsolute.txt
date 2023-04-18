@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\02. Data Types and Variables\Lab\Lab\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.genruntimeconfig.cache
