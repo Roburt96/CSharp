@@ -1,7 +1,9 @@
                                   - Output and input - 
 
-Console.WriteLine(string value)/Console.Write(string value): Writes a string to the standard output stream, 
-followed by a new line or without a new line.
+Console.WriteLine(string value): Writes a string to the standard output stream, 
+followed by a new line.
+
+Console.Write(string value):  output will continue on the same line
 
 Console.ReadLine(): Reads a line of characters from the standard input stream and returns it as a string.
 
