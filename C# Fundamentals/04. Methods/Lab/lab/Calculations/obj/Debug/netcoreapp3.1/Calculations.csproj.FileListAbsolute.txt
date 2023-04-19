@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\bin\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Calculations\obj\Debug\netcoreapp3.1\Calculations.genruntimeconfig.cache

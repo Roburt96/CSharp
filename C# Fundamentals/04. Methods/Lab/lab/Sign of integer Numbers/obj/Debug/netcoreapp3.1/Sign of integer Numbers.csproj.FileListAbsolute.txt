@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\bin\Debug\netcoreapp3.1\Sign of integer Numbers.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\bin\Debug\netcoreapp3.1\Sign of integer Numbers.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\bin\Debug\netcoreapp3.1\Sign of integer Numbers.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\bin\Debug\netcoreapp3.1\Sign of integer Numbers.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\bin\Debug\netcoreapp3.1\Sign of integer Numbers.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\bin\Debug\netcoreapp3.1\Sign of integer Numbers.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\obj\Debug\netcoreapp3.1\Sign of integer Numbers.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\obj\Debug\netcoreapp3.1\Sign of integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\obj\Debug\netcoreapp3.1\Sign of integer Numbers.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\obj\Debug\netcoreapp3.1\Sign of integer Numbers.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\obj\Debug\netcoreapp3.1\Sign of integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\obj\Debug\netcoreapp3.1\Sign of integer Numbers.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\obj\Debug\netcoreapp3.1\Sign of integer Numbers.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\04. Methods\Lab\lab\Sign of integer Numbers\obj\Debug\netcoreapp3.1\Sign of integer Numbers.genruntimeconfig.cache
