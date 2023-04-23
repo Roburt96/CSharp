@@ -1,0 +1,14 @@
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.exe
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.deps.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.runtimeconfig.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.runtimeconfig.dev.json
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\bin\Debug\netcoreapp3.1\Big Factorial.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.csproj.AssemblyReference.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.AssemblyInfoInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.AssemblyInfo.cs
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.dll
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.pdb
+C:\Users\sulev\Desktop\CODES\CSharp\C# Fundamentals\07. Objects and Classes\Lab\Lab\Big Factorial\obj\Debug\netcoreapp3.1\Big Factorial.genruntimeconfig.cache
