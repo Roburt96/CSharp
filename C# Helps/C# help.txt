@@ -1,0 +1,185 @@
+                                  - Output and input - 
+
+Console.WriteLine(string value): Writes a string to the standard output stream, 
+followed by a new line.
+
+Console.Write(string value):  output will continue on the same line
+
+Console.ReadLine(): Reads a line of characters from the standard input stream and returns it as a string.
+
+Convert.ToInt32(string value)/Convert.ToDouble(string value)/Convert.ToBoolean(string value): Converts a string to an int, 
+double, or boolean value, respectively.
+
+########################################################################################################################
+
+                                     - Data Types - 
+
+int myNum = 5;               // Integer (whole number)
+double myDoubleNum = 5.99D;  // Floating point number
+char myLetter = 'D';         // Character
+bool myBool = true;          // Boolean
+string myText = "Hello";     // String
+	
+ToBoolean => Converts a type to a Boolean value, where possible.
+	
+ToByte => Converts a type to a byte.
+	
+ToChar => Converts a type to a single Unicode character, where possible.
+
+ToDateTime => Converts a type (integer or string type) to date-time structures.
+	
+ToDecimal => Converts a floating point or integer type to a decimal type.
+	
+ToDouble => Converts a type to a double type.
+	
+ToInt16 => Converts a type to a 16-bit integer.
+	
+ToInt32 => Converts a type to a 32-bit integer.
+	
+ToInt64 => Converts a type to a 64-bit integer.
+
+ToSbyte => Converts a type to a signed byte type.
+	
+ToSingle => Converts a type to a small floating point number.
+	
+ToString => Converts a type to a string.
+	
+ToType => Converts a type to a specified type.
+
+ToUInt16 => Converts a type to an unsigned int type.
+
+ToUInt32 => Converts a type to an unsigned long type.
+
+ToUInt64 => Converts a type to an unsigned big integer.
+
+########################################################################################################################
+
+                                    - Operations -
+
++	Addition	Adds together two values	x + y	
+-	Subtraction	Subtracts one value from another	x - y	
+*	Multiplication	Multiplies two values	x * y	
+/	Division	Divides one value by another	x / y	
+%	Modulus	Returns the division remainder	x % y	
+++	Increment	Increases the value of a variable by 1	x++	
+--	Decrement	Decreases the value of a variable by 1	x--
+
+########################################################################################################################
+
+                                 - Assignment operations -
+                                   
+=	x = 5	x = 5	
++=	x += 3	x = x + 3	
+-=	x -= 3	x = x - 3	
+*=	x *= 3	x = x * 3	
+/=	x /= 3	x = x / 3	
+%=	x %= 3	x = x % 3	
+&=	x &= 3	x = x & 3	
+|=	x |= 3	x = x | 3	
+^=	x ^= 3	x = x ^ 3	
+>>=	x >>= 3	x = x >> 3	
+<<=	x <<= 3 x = x << 3
+
+########################################################################################################################
+
+                                - Comparison operations -
+                                
+==	Equal to	x == y	
+!=	Not equal	x != y	
+>	Greater than	x > y	
+<	Less than	x < y	
+>=	Greater than or equal to	x >= y	
+<=      Less than or equal to	x <= y
+
+########################################################################################################################
+
+                               - Logical operations -
+                               
+&& 	Logical and	Returns True if both statements are true	x < 5 &&  x < 10	
+|| 	Logical or	Returns True if one of the statements is true	x < 5 || x < 4	
+!	Logical not	Reverse the result, returns False if the result is true	!(x < 5 && x < 10)
+
+########################################################################################################################
+
+                                        - Math -
+Math.Abs(): Returns the absolute value of a number.
+Math.Sqrt(): Returns the square root of a number.
+Math.Max(): Returns the larger of two numbers.
+Math.Min(): Returns the smaller of two numbers.
+Math.Round(): Rounds a number to the nearest integer.
+
+
+########################################################################################################################
+
+                                  - Special Characters -
+
+\'	'	Single quote
+\"	"	Double quote
+\\	\	Backslash
+
+########################################################################################################################
+
+                                  - Short hand If...else
+
+int time = 20;
+string result = (time < 18) ? "Good day." : "Good evening.";
+Console.WriteLine(result);
+
+########################################################################################################################
+
+
+                                    - Switch Statements -
+
+switch(expression) 
+{
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+    break;
+}
+
+########################################################################################################################
+
+                                      - While Loop -
+(Do/while)
+
+int i = 0;
+do 
+{
+  Console.WriteLine(i);
+  i++;
+}
+while (i < 5);
+
+########################################################################################################################
+
+                                    - Foreach loop -
+There is also a foreach loop, which is used exclusively to loop through elements in an array:
+
+string[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+foreach (string i in cars) 
+{
+  Console.WriteLine(i);
+}
+
+
+
+
+
+                                              
+
+
+
+
+
+
+
+
+
+
+

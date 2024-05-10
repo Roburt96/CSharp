@@ -1,0 +1,88 @@
+﻿                                    - List/Collections/ Methods -
+var "listname" = new List<string>(); 
+
+
+Add(T item): Adds an item to the end of the List.
+
+AddRange(IEnumerable<T> collection): Adds a collection of items to the end of the List.
+
+Clear(): Removes all items from the List.
+
+Contains(T item): Determines whether the List contains a specific item.
+
+Count: Gets the number of items in the List.
+
+Find(Predicate<T> match): Returns the first item that matches the specified condition.
+
+FindAll(Predicate<T> match): Returns all items that match the specified condition.
+
+FindIndex(Predicate<T> match): Returns the index of the first item that matches the specified condition.
+
+ForEach(Action<T> action): Performs the specified action on each item in the List.
+
+IndexOf(T item): Returns the index of the first occurrence of the specified item in the List.
+
+Insert(int index, T item): Inserts an item at the specified index in the List.
+
+InsertRange(int index, IEnumerable<T> collection): Inserts a collection of items at the specified index in the List.
+
+Remove(T item): Removes the first occurrence of the specified item from the List.
+
+RemoveAll(Predicate<T> match): Removes all items that match the specified condition from the List.
+
+RemoveAt(int index): Removes the item at the specified index from the List.
+
+RemoveRange(int index, int count): Removes a range of items starting from the specified index in the List.
+
+Reverse(): Reverses the order of items in the List.
+
+Sort(): Sorts the items in the List.
+
+ToArray(): Copies the items in the List to a new array.
+
+TrimExcess(): Sets the capacity of the List to the actual number of items it contains.
+
+
+########################################################################################################################
+
+                                     - Dictionary Methods -
+*** To use dictionary need to write -> "using System.Collections.Generic;"
+=> to make dictionary ---> Dictionary<string, int> data = new Dictionary<string, int>()
+
+Add(TKey key, TValue value): Adds the specified key and value to the dictionary.
+
+Clear(): Removes all keys and values from the dictionary.
+
+ContainsKey(TKey key): Determines whether the dictionary contains the specified key.
+
+ContainsValue(TValue value): Determines whether the dictionary contains the specified value.
+
+Count: Gets the number of key-value pairs in the dictionary.
+
+Remove(TKey key): Removes the key and value associated with the specified key from the dictionary.
+
+TryGetValue(TKey key, out TValue value): Retrieves the value associated with the specified key, if present in the dictionary.
+
+Keys: Gets a collection of all keys in the dictionary.
+
+Values: Gets a collection of all values in the dictionary.
+
+GetEnumerator(): Returns an enumerator that iterates through the key-value pairs in the dictionary.
+
+GetValueOrDefault(TKey key): Retrieves the value associated with the specified key, or a default value if the key is not present in the dictionary.
+
+SetValue(TKey key, TValue value): Sets the value associated with the specified key in the dictionary.
+
+TryAdd(TKey key, TValue value): Adds the specified key and value to the dictionary if the key does not already exist.
+
+TryRemove(TKey key, out TValue value): Removes the key and value associated with the specified key from the dictionary, if present.
+
+TryUpdate(TKey key, TValue newValue, TValue comparisonValue): Updates the value associated with the specified key in the dictionary, if the current value matches the specified comparison value.
+
+Contains(KeyValuePair<TKey, TValue> pair): Determines whether the dictionary contains the specified key-value pair.
+
+CopyTo(KeyValuePair<TKey, TValue>[] array, int arrayIndex): Copies the key-value pairs from the dictionary to an array.
+
+Remove(KeyValuePair<TKey, TValue> pair): Removes the specified key-value pair from the dictionary.
+
+EqualityComparer<TKey>.Default: Gets the default equality comparer for the key type of the dictionary.

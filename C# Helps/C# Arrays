@@ -1,0 +1,72 @@
+﻿ - Arrays Methods -
+Any: Check if any element in the array is greater than 3
+Example: bool anyGreaterThanThree = numbers.Any(num => num > 3);
+
+Length: Gets the total number of elements in the array.
+
+Rank: Gets the number of dimensions in the array.
+
+GetLength(int dimension): Gets the number of elements in the specified dimension of the array.
+
+GetLowerBound(int dimension): Gets the lower bound (index) of the specified dimension in the array.
+
+GetUpperBound(int dimension): Gets the upper bound (index) of the specified dimension in the array.
+
+GetValue(params int[] indices): Gets the value at the specified indices in the array.
+
+SetValue(object value, params int[] indices): Sets the value at the specified indices in the array.
+
+Clone(): Creates a shallow copy of the array.
+
+CopyTo(Array array, int index): Copies the entire array to another array starting from the specified index.
+
+GetEnumerator(): Returns an enumerator that iterates through the array.
+
+IndexOf(T value): Searches for the specified value and returns the index of the first occurrence in the array.
+
+LastIndexOf(T value): Searches for the specified value and returns the index of the last occurrence in the array.
+
+Reverse(): Reverses the elements in the array.
+
+Sort(): Sorts the elements in the array.
+
+BinarySearch(T value): Searches for the specified value in the sorted array and returns the index.
+
+Clear(): Sets all elements in the array to their default value.
+
+Copy(Array sourceArray, Array destinationArray, int length): Copies a range of elements from one array to another array.
+
+Resize(ref T[] array, int newSize): Resizes the array to the specified size.
+
+ForEach(Action<T> action): Performs the specified action on each element of the array.
+
+TrueForAll(Predicate<T> match): Determines whether all elements in the array match the specified condition.
+
+################################################################################################
+                                     - Arrays -
+
+Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+To declare an array, define the variable type with square brackets:
+
+string[] cars = {"Volvo", "BMW", "Ford", "Mazda"}; => for strings
+int[] myNum = {10, 20, 30, 40}; => for int
+
+use System.Linq => using (System.Linq;)
+int[] myNumbers = {5, 1, 8, 9}
+Useful stuff like => 
+myNymbers.Max() = largest value
+myNumbers.Min() = smallest value
+myNumbers.Sum() = sum of elements
+
+
+* Multidimensional arrays *
+int[,] numbers = { {1, 4, 2}, {3, 6, 8} };
+Console.WriteLine(numbers[0, 2]);  // Outputs 2. In [] we enter row, column
+
+- You can easily loop through the elements of a two-dimensional array with a foreach loop:
+int[,] numbers = { {1, 4, 2}, {3, 6, 8} };
+
+foreach (int i in numbers)
+{
+  Console.WriteLine(i);
+} 
