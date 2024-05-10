@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\bin\Debug\net6.0\EvensorOdds.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\bin\Debug\net6.0\EvensorOdds.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\bin\Debug\net6.0\EvensorOdds.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\bin\Debug\net6.0\EvensorOdds.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\bin\Debug\net6.0\EvensorOdds.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\obj\Debug\net6.0\EvensorOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\obj\Debug\net6.0\EvensorOdds.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\obj\Debug\net6.0\EvensorOdds.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\obj\Debug\net6.0\EvensorOdds.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\obj\Debug\net6.0\EvensorOdds.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\obj\Debug\net6.0\refint\EvensorOdds.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\obj\Debug\net6.0\EvensorOdds.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\obj\Debug\net6.0\EvensorOdds.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\EvensorOdds\obj\Debug\net6.0\ref\EvensorOdds.dll

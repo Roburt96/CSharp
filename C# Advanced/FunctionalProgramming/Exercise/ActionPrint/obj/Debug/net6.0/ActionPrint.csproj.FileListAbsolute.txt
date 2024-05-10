@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\bin\Debug\net6.0\ActionPrint.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\bin\Debug\net6.0\ActionPrint.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\bin\Debug\net6.0\ActionPrint.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\bin\Debug\net6.0\ActionPrint.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\bin\Debug\net6.0\ActionPrint.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\obj\Debug\net6.0\refint\ActionPrint.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\obj\Debug\net6.0\ActionPrint.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\ActionPrint\obj\Debug\net6.0\ref\ActionPrint.dll

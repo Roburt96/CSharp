@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\bin\Debug\net6.0\MaxAndMinElement.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\bin\Debug\net6.0\MaxAndMinElement.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\bin\Debug\net6.0\MaxAndMinElement.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\bin\Debug\net6.0\MaxAndMinElement.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\bin\Debug\net6.0\MaxAndMinElement.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\obj\Debug\net6.0\refint\MaxAndMinElement.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\MaxAndMinElement\obj\Debug\net6.0\ref\MaxAndMinElement.dll

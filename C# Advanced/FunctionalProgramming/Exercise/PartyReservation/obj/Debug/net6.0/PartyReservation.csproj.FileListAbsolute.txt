@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\bin\Debug\net6.0\PartyReservation.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\bin\Debug\net6.0\PartyReservation.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\bin\Debug\net6.0\PartyReservation.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\bin\Debug\net6.0\PartyReservation.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\bin\Debug\net6.0\PartyReservation.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\obj\Debug\net6.0\PartyReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\obj\Debug\net6.0\PartyReservation.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\obj\Debug\net6.0\PartyReservation.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\obj\Debug\net6.0\PartyReservation.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\obj\Debug\net6.0\PartyReservation.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\obj\Debug\net6.0\refint\PartyReservation.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\obj\Debug\net6.0\PartyReservation.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\obj\Debug\net6.0\PartyReservation.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\PartyReservation\obj\Debug\net6.0\ref\PartyReservation.dll

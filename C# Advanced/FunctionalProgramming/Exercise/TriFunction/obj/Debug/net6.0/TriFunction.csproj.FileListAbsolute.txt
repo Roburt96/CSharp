@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\bin\Debug\net6.0\TriFunction.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\bin\Debug\net6.0\TriFunction.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\bin\Debug\net6.0\TriFunction.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\bin\Debug\net6.0\TriFunction.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\bin\Debug\net6.0\TriFunction.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\obj\Debug\net6.0\TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\obj\Debug\net6.0\TriFunction.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\obj\Debug\net6.0\TriFunction.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\obj\Debug\net6.0\TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\obj\Debug\net6.0\TriFunction.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\obj\Debug\net6.0\refint\TriFunction.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\obj\Debug\net6.0\TriFunction.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\obj\Debug\net6.0\TriFunction.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\TriFunction\obj\Debug\net6.0\ref\TriFunction.dll

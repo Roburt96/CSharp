@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\bin\Debug\net6.0\HonorKnights.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\bin\Debug\net6.0\HonorKnights.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\bin\Debug\net6.0\HonorKnights.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\bin\Debug\net6.0\HonorKnights.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\bin\Debug\net6.0\HonorKnights.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\obj\Debug\net6.0\HonorKnights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\obj\Debug\net6.0\HonorKnights.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\obj\Debug\net6.0\HonorKnights.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\obj\Debug\net6.0\HonorKnights.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\obj\Debug\net6.0\HonorKnights.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\obj\Debug\net6.0\refint\HonorKnights.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\obj\Debug\net6.0\HonorKnights.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\obj\Debug\net6.0\HonorKnights.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\05.Functional Programming\Exercise\HonorKnights\obj\Debug\net6.0\ref\HonorKnights.dll

@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\bin\Debug\net6.0\FastFood.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\bin\Debug\net6.0\FastFood.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\bin\Debug\net6.0\FastFood.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\bin\Debug\net6.0\FastFood.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\bin\Debug\net6.0\FastFood.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\obj\Debug\net6.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\obj\Debug\net6.0\FastFood.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\obj\Debug\net6.0\FastFood.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\obj\Debug\net6.0\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\obj\Debug\net6.0\FastFood.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\obj\Debug\net6.0\refint\FastFood.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\obj\Debug\net6.0\FastFood.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\obj\Debug\net6.0\FastFood.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\FastFood\obj\Debug\net6.0\ref\FastFood.dll

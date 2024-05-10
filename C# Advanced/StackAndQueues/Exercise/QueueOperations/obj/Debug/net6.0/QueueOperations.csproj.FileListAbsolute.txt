@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\bin\Debug\net6.0\QueueOperations.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\bin\Debug\net6.0\QueueOperations.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\bin\Debug\net6.0\QueueOperations.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\bin\Debug\net6.0\QueueOperations.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\bin\Debug\net6.0\QueueOperations.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\obj\Debug\net6.0\QueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\obj\Debug\net6.0\QueueOperations.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\obj\Debug\net6.0\QueueOperations.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\obj\Debug\net6.0\QueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\obj\Debug\net6.0\QueueOperations.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\obj\Debug\net6.0\refint\QueueOperations.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\obj\Debug\net6.0\QueueOperations.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\obj\Debug\net6.0\QueueOperations.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\01.Stacks and Queues\Exercise\QueueOperations\obj\Debug\net6.0\ref\QueueOperations.dll
