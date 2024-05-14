@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\refint\PokemonTrainer.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\PokemonTrainer\PokemonTrainer\obj\Debug\net6.0\ref\PokemonTrainer.dll

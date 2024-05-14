@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\bin\Debug\net6.0\SpeedRacing.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\bin\Debug\net6.0\SpeedRacing.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\bin\Debug\net6.0\SpeedRacing.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\bin\Debug\net6.0\SpeedRacing.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\bin\Debug\net6.0\SpeedRacing.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\refint\SpeedRacing.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\SpeedRacing.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\06.Defining Classes\02.Exercise\SpeedRacing\SpeedRacing\obj\Debug\net6.0\ref\SpeedRacing.dll

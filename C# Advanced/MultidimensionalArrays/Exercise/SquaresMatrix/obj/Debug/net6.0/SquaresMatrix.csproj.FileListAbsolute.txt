@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\bin\Debug\net6.0\SquaresMatrix.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\bin\Debug\net6.0\SquaresMatrix.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\bin\Debug\net6.0\SquaresMatrix.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\bin\Debug\net6.0\SquaresMatrix.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\bin\Debug\net6.0\SquaresMatrix.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\obj\Debug\net6.0\SquaresMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\obj\Debug\net6.0\SquaresMatrix.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\obj\Debug\net6.0\SquaresMatrix.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\obj\Debug\net6.0\SquaresMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\obj\Debug\net6.0\SquaresMatrix.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\obj\Debug\net6.0\refint\SquaresMatrix.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\obj\Debug\net6.0\SquaresMatrix.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\obj\Debug\net6.0\SquaresMatrix.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\02.MultidimensioanlArrays\02.Exercise\SquaresMatrix\obj\Debug\net6.0\ref\SquaresMatrix.dll
