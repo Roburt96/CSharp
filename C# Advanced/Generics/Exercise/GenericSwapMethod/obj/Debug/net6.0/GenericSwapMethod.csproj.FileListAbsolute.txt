@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\bin\Debug\net6.0\GenericSwapMethod.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\obj\Debug\net6.0\refint\GenericSwapMethod.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\obj\Debug\net6.0\GenericSwapMethod.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSwapMethod\obj\Debug\net6.0\ref\GenericSwapMethod.dll

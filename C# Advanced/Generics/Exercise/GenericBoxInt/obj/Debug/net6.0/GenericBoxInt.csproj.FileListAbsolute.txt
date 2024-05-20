@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\bin\Debug\net6.0\GenericBoxInt.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\bin\Debug\net6.0\GenericBoxInt.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\bin\Debug\net6.0\GenericBoxInt.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\bin\Debug\net6.0\GenericBoxInt.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\bin\Debug\net6.0\GenericBoxInt.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\obj\Debug\net6.0\GenericBoxInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\obj\Debug\net6.0\GenericBoxInt.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\obj\Debug\net6.0\GenericBoxInt.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\obj\Debug\net6.0\GenericBoxInt.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\obj\Debug\net6.0\GenericBoxInt.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\obj\Debug\net6.0\refint\GenericBoxInt.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\obj\Debug\net6.0\GenericBoxInt.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\obj\Debug\net6.0\GenericBoxInt.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericBoxInt\obj\Debug\net6.0\ref\GenericBoxInt.dll

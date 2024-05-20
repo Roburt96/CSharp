@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\bin\Debug\net6.0\GenericSpawMethodInt.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\bin\Debug\net6.0\GenericSpawMethodInt.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\bin\Debug\net6.0\GenericSpawMethodInt.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\bin\Debug\net6.0\GenericSpawMethodInt.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\bin\Debug\net6.0\GenericSpawMethodInt.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\obj\Debug\net6.0\GenericSpawMethodInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\obj\Debug\net6.0\GenericSpawMethodInt.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\obj\Debug\net6.0\GenericSpawMethodInt.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\obj\Debug\net6.0\GenericSpawMethodInt.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\obj\Debug\net6.0\GenericSpawMethodInt.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\obj\Debug\net6.0\refint\GenericSpawMethodInt.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\obj\Debug\net6.0\GenericSpawMethodInt.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\obj\Debug\net6.0\GenericSpawMethodInt.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\08.Generics\02.Exercise\GenericSpawMethodInt\obj\Debug\net6.0\ref\GenericSpawMethodInt.dll
