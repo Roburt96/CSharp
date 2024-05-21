@@ -1,0 +1,15 @@
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\obj\Debug\net6.0\ClearSkies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\obj\Debug\net6.0\ClearSkies.AssemblyInfoInputs.cache
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\obj\Debug\net6.0\ClearSkies.AssemblyInfo.cs
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\obj\Debug\net6.0\ClearSkies.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\obj\Debug\net6.0\ClearSkies.sourcelink.json
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\bin\Debug\net6.0\ClearSkies.exe
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\bin\Debug\net6.0\ClearSkies.deps.json
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\bin\Debug\net6.0\ClearSkies.runtimeconfig.json
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\bin\Debug\net6.0\ClearSkies.dll
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\bin\Debug\net6.0\ClearSkies.pdb
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\obj\Debug\net6.0\ClearSkies.dll
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\obj\Debug\net6.0\refint\ClearSkies.dll
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\obj\Debug\net6.0\ClearSkies.pdb
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\obj\Debug\net6.0\ClearSkies.genruntimeconfig.cache
+D:\Projects\CSharp\C# Advanced\Exams\17022024\2\ClearSkies\obj\Debug\net6.0\ref\ClearSkies.dll

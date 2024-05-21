@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlindManBuff", "BlindManBuff.csproj", "{B61FFC5A-3672-437F-93CF-BFF5965B6507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B61FFC5A-3672-437F-93CF-BFF5965B6507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61FFC5A-3672-437F-93CF-BFF5965B6507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61FFC5A-3672-437F-93CF-BFF5965B6507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61FFC5A-3672-437F-93CF-BFF5965B6507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {870FCCFF-AD96-470A-9DB7-4D9B6EF11C08}
+	EndGlobalSection
+EndGlobal
