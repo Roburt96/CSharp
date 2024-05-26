@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CSharp\\C# Advanced\\Exams\\13122023\\2\\TheGambler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF87383-0EC3-47B5-AE65-CA2EF50F716E}|TheGambler.csproj|d:\\projects\\csharp\\c# advanced\\exams\\13122023\\2\\thegambler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF87383-0EC3-47B5-AE65-CA2EF50F716E}|TheGambler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CSharp\\C# Advanced\\Exams\\13122023\\2\\TheGambler\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\CSharp\\C# Advanced\\Exams\\13122023\\2\\TheGambler\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:10:32.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

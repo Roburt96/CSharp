@@ -1,0 +1,15 @@
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.exe
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.deps.json
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.runtimeconfig.json
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.dll
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\bin\Debug\net6.0\GroceriesManagement.pdb
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.AssemblyInfoInputs.cache
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.AssemblyInfo.cs
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.sourcelink.json
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.dll
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\obj\Debug\net6.0\refint\GroceriesManagement.dll
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.pdb
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\obj\Debug\net6.0\GroceriesManagement.genruntimeconfig.cache
+D:\Projects\CSharp\C# Advanced\Exams\13122023\3\GroceriesManagement\obj\Debug\net6.0\ref\GroceriesManagement.dll
