@@ -1,0 +1,15 @@
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.sourcelink.json
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\obj\Debug\net6.0\refint\PlayersAndMonsters.dll
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache
+D:\Projects\CSharp\C# OOP\Inheritance\Exercise\PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll
