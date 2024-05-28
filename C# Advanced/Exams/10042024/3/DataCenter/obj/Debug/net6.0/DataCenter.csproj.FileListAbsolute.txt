@@ -1,0 +1,14 @@
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\bin\Debug\net6.0\DataCenter.exe
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\bin\Debug\net6.0\DataCenter.deps.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\bin\Debug\net6.0\DataCenter.runtimeconfig.json
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\bin\Debug\net6.0\DataCenter.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\bin\Debug\net6.0\DataCenter.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\obj\Debug\net6.0\DataCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\obj\Debug\net6.0\DataCenter.AssemblyInfoInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\obj\Debug\net6.0\DataCenter.AssemblyInfo.cs
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\obj\Debug\net6.0\DataCenter.csproj.CoreCompileInputs.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\obj\Debug\net6.0\DataCenter.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\obj\Debug\net6.0\refint\DataCenter.dll
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\obj\Debug\net6.0\DataCenter.pdb
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\obj\Debug\net6.0\DataCenter.genruntimeconfig.cache
+C:\Users\Robart.Syulev\Repos\SoftUniC#Advanced\10.Exams\10042024\3\DataCenter\obj\Debug\net6.0\ref\DataCenter.dll
