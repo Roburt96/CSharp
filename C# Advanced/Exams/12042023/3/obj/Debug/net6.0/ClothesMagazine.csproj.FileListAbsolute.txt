@@ -1,0 +1,15 @@
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\bin\Debug\net6.0\ClothesMagazine.exe
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\bin\Debug\net6.0\ClothesMagazine.deps.json
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\bin\Debug\net6.0\ClothesMagazine.runtimeconfig.json
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\bin\Debug\net6.0\ClothesMagazine.dll
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\bin\Debug\net6.0\ClothesMagazine.pdb
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\obj\Debug\net6.0\ClothesMagazine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\obj\Debug\net6.0\ClothesMagazine.AssemblyInfoInputs.cache
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\obj\Debug\net6.0\ClothesMagazine.AssemblyInfo.cs
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\obj\Debug\net6.0\ClothesMagazine.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\obj\Debug\net6.0\ClothesMagazine.sourcelink.json
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\obj\Debug\net6.0\ClothesMagazine.dll
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\obj\Debug\net6.0\refint\ClothesMagazine.dll
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\obj\Debug\net6.0\ClothesMagazine.pdb
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\obj\Debug\net6.0\ClothesMagazine.genruntimeconfig.cache
+D:\Projects\CSharp\C# Advanced\Exams\12042023\3\obj\Debug\net6.0\ref\ClothesMagazine.dll
